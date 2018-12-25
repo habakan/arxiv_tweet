@@ -2,6 +2,7 @@
 
 1. arxiv.org関連ツイートを検索
 2. 検索結果をSlack Webhook APIでチャンネルに送信
+3. 取得した最新ツイートのIDをparams.jsonに保存
 
 ## Start
 
